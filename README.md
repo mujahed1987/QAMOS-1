@@ -1,6 +1,6 @@
 # QAMOS - قاموس
 > سكربت قاموس لترجمة المصطلحات التقنية
-```XML
+```YML
  Build-Version: 0.1 
  Status: Under Development ( Beta )
 ```
