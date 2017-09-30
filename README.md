@@ -1,9 +1,9 @@
 # QAMOS - قاموس
 > سكربت قاموس لترجمة المصطلحات التقنية
-
-> Build-Version: 0.1 
-
-> Status: Under Development ( Beta )
+```XML
+ Build-Version: 0.1 
+ Status: Under Development ( Beta )
+```
 ***
 ![](https://aosus.org/uploads/default/original/2X/9/9e588728bbb0b8f598c267d7e362d28df0269e2c.png)
 
