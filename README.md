@@ -16,7 +16,7 @@
 - [ ] Create An Api For Admins For Remote Access
 - [ ] Built-In Live Chat For Vistors
 - [ ] Extra Secuirty
-- [ ] Develop Front-End Design
+- [ ] Upgrade Administration Panel Design , Functionality
 - [x] Adding Rename Words Option In The Edit Panel
 - [ ] Create Web Panel ( Change Password, Change E-Mail, Change Logo Image , Maintance Mode ..etc)
 - [ ] Create Permissions System ( Add, Verfiy, Delete, Rename)
